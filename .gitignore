@@ -27,3 +27,6 @@ burrito_example-*.tar
 
 # JakeBecker.elixir-ls
 .elixir_ls
+
+# burrito
+burrito_out/
