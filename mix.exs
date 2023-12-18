@@ -34,7 +34,8 @@ defmodule BurritoExample.MixProject do
             linux_aarch64: [os: :linux, cpu: :aarch64],
             linux_x86_64: [os: :linux, cpu: :x86_64],
             macos_aarch64: [os: :darwin, cpu: :aarch64],
-            macos_x86_64: [os: :darwin, cpu: :x86_64]
+            macos_x86_64: [os: :darwin, cpu: :x86_64],
+            windows_x86_64: [os: :windows, cpu: :x86_64]
           ]
         ]
       ]
